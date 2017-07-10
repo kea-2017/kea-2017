@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/kea-2017/kea-2017.png?label=ready&title=Ready)](https://waffle.io/kea-2017/kea-2017)
+[![Stories in Ready](https://badge.waffle.io/kea-2017/kea-2017.png?label=ready&title=Ready)](https://waffle.io/kea-2017/kea-2017)
 # Kea 2017
 
 Kia ora.
